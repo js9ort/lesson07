@@ -1,2 +1,2 @@
 # lesson07
-Lesson #07 (13 &amp; 14) | JS9@ORT
+Lesson #07 (13 &amp; 14) | JS9@ORT Операторы Async / Await (ECMAScript-2017) их цели, задачи и применение. Unit testing (модульное тестирование), его применение в разработке на JavaScript. Методы .toString() и .valueOf() у объектов, преобразование к простым типам. Объект Date и работа с датой/временем в JavaScript. Работы с API сервисами "Новой почты".
